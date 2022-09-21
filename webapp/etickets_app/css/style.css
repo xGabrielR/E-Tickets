@@ -1,0 +1,15 @@
+.ticket-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+.ticket {
+    display: flex;
+}
+.ticket-content {
+    padding: 10px;
+}
+@media screen and (max-width:500){
+    .img {
+        width: 50px;
+    }
+}
