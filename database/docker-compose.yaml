@@ -22,30 +22,8 @@ services:
     ports:
       - 9200:9200
     networks: 
-      - observability
-
-  logstash:
-    image: docker.elastic.co/logstash/logstash:7.13.0
-    container_name: logstash
-    environment:
-      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
-      - "LOGSTASH_INTERNAL_PASSWORD=logstash"
-    ports:
-      - 5044:5044
-      - 9600:9600
-      - "50000:50000/tcp"
-      - "50000:50000/udp"
-    volumes:
-      #- ./logd:/usr/share/logstash
-      #- ./logd/csv.conf:/usr/share/logstash/csv.conf:ro
-      - ./logd/config:/usr/share/logstash/config
-      - ./logd/pipeline:/usr/share/logstash/pipeline
-      - ./logd/data:/usr/share/logstash/data
-    depends_on:
-      - elasticsearch
-    networks: 
-      - observability
+      - unicsul_network
         
 networks:
-  observability:
+  unicsul_network:
     external: true
