@@ -160,7 +160,7 @@ Capítulo I, Segmentos de Clientes, Livro: Business Model Generation.
 <p>A solução foi desenvolvida rapidamente para gerar valor ao José e confiabilidade dele no desenvolvimento da solução. Diante disso, muitos detalhes levantadas na etapa de trade-off e levantamento de requisitos foram deixadas de lado por que não era momento dado a etapa do mvp (que não tinha saído do papel) então, futuras implementações destas vão ser elaboradas ao decorrer das novas versões do MVP, como soluções diferentes de pagamentos de tickets, incremento na base de tickets e até possíveis testes de inferência estatística podem ser implementados para melhorar a experiência do usuário, mas isso são conceitos para futuras versões do MVP.</p>
 <p>Conceitos como MVP e desenvolvimento cíclico são muito importantes, principalmente para startups que possuem um crescimento muito rápido, ideias são descartadas em semanas se não forem implementadas rapidamente.</p>
 
-<h2>5. Bibliografia</h2>
+<h2>5. Bibliografia (Livros)</h2>
 <hr>
 
 <a href='https://tudelft.openresearch.net/image/2015/10/28/business_model_generation.pdf'>Livro: Business Model Generation</a>
