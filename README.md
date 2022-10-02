@@ -3,7 +3,6 @@
 <hr>
 
 <h2>Sumário</h2>
-<hr>
 
 - [0. Introdução](#0-introducao)
   - [0.1. Problema de Negócio](#01-problema-de-negocio)
