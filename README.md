@@ -72,6 +72,10 @@
 <h3>2.1. Primeiro Cíclo de Desenvolvimento</h3>
 <hr>
 
+![image](https://user-images.githubusercontent.com/75986085/193457617-466d8c41-ee03-4389-9e2a-8d54be65a763.png)
+
+Ciclio MVP, tirado do Site <a href='https://troposlab.com/mvp-o-que-e-estagios-e-vantagens-de-uso/'>Troposlab</a>
+
 <p></p>
 
 <h4>2.1.1. Kickoff do MVP E-Tickets</h4>
