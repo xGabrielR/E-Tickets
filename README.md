@@ -134,22 +134,26 @@
 <h3>3.3. Implementações</h3>
 <hr>
 
-<p></p>
-
 <h4>3.3.1. Layout & Banco de Dados</h4>
 <hr>
 
-<p></p>
+<p>Quanto ao desenvolvimento, escolhi o framework de desenvolvimento em python chamado Streamlit e a ferramenta de busca chamada Elasticsearch para a recuperação de nomes de tickets rapidamente, para incrementar a interação do usuário inserindo um sistema de pesquisa de tickets e um sistema de cadastro de usuários, pois o cliente só consegue efetivamente concluir a compra caso o mesmo já esteja cadastrado na aplicação, caso contrário não vai conseguir visualizar o carrinho de compras. Com as devidas autenticações o fluxo segue para o carrinho e o preenchimento do formulário que será enviado ao Picpay com a cobrança do ticket escolhido.</p>
+<p>Tanto no momento do registro do cliente e no momento quando o mesmo efetivamente realiza a requisição ao picpay, são respectivamente enviados dois e-mail de confirmação ao usuário.</p>
 
 <h4>3.3.2. Solução de pagamento com picpay</h4>
 <hr>
 
-<p></p>
+<p>A solução para o pagamento do picpay foi escolhida justamente pela simplicidade na implementação, outras soluções mais automaticas podem não ser tão simples de implementar, e como o mvp deve ser rápido como cita no livro Lean Inception, foi escolhido o Picpay para fazer as devidas requisiçẽos de compra.</p>
+<a href='https://studio.picpay.com/produtos/e-commerce/checkout/resources/api-reference'>Documentação da API do Picpay</a>
 
 <h4>3.3.3. Deploy da Solução para Segmentos Específicos</h4>
 <hr>
 
-<p></p>
+<p>Dado a magnitude e o cuidado com a aplicação, o empreendedor José decidiu que para a primeira solução em produção, a mesma só vai ser disponível a segmentos de clientes específicos, como já citado no livro 'Business Model', a segmentação de clientes podem ser feitas de diversas formas como por tipo de mercado, clientes específicos, geográficos, físicos, culturais, entre outros fatores. Para o caso de José, ele escolheu os clientes mais importantes da base para testarem a aplicação dando reconhecimento a esses clientes e para testar o mvp também.</p>
+
+![image](https://user-images.githubusercontent.com/75986085/193456748-ce35ad84-6f91-4332-809a-66a87281e010.png)
+
+Capítulo I, Segmentos de Clientes, Livro: Business Model Generation.
 
 <h2>4. Conclusão & Próximos Passos</h2>
 <hr>
