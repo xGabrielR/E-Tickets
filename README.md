@@ -163,4 +163,5 @@ Capítulo I, Segmentos de Clientes, Livro: Business Model Generation.
 <h2>5. Bibliografia</h2>
 <hr>
 
-<a href='https://tudelft.openresearch.net/image/2015/10/28/business_model_generation.pdf'>Business Model Generation</a>
+<a href='https://tudelft.openresearch.net/image/2015/10/28/business_model_generation.pdf'>Livro: Business Model Generation</a>
+<a href='https://caroli.org/en/livro/lean-inception-how-to-align-people-and-build-the-right-product'>Livro: Lean Inception</a>
