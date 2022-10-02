@@ -123,6 +123,9 @@
 <p>É o detalhamento do fluxo do usuário com a aplicação, esse diagrama serve para ilustra todos os processos do cliente detalhando até exeções e tratamentos de erros, principalmente em aplicações puramente comerciais como é o caso da aplciação e-ticket para o José.</p>
 <p>Para ilustração, imagine-se em qualquer e-commerce, existe um funil caso você selecione um produto e próxima ao pagamento, para evitar distrações e possível perda da venda não existem muitos 'ramos' da aplicação quando você está no processo de compra, qualquer distração ou erro de sistema como exemplo a demora no processamento pode levar o cliente a descontinuar o processo de compra e aumentando a métrica de abandono de carrinho.</p>
 
+![image](https://user-images.githubusercontent.com/75986085/193457547-00a27aca-963d-4fe7-9765-0e59ed77a857.png)
+
+Macro Fluxo Não Detalhado desenvolvido com a aplicação Miro.
 
 <h4>3.2.2. Diagrama de Relacionamento</h4>
 <hr>
